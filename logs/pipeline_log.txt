@@ -1,0 +1,10 @@
+[2025-07-17 12:41:04.681135] Extracted 10 articles.
+[2025-07-17 12:41:04.784211] Sentiment analysis completed.
+[2025-07-17 12:42:49.330366] Extracted 10 articles.
+[2025-07-17 12:42:49.375403] Sentiment analysis completed.
+[2025-07-17 12:43:06.341050] Extracted 10 articles.
+[2025-07-17 12:43:06.411345] Sentiment analysis completed.
+[2025-07-17 12:43:06.431812] Loaded 10 records to DB table 'news_sentiment'.
+[2025-07-17 12:51:46.504907] Extracted 10 articles.
+[2025-07-17 12:51:46.582544] Sentiment analysis completed.
+[2025-07-17 12:51:46.621374] Loaded 10 records to DB table 'news_sentiment'.
